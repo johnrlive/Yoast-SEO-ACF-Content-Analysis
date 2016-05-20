@@ -1,11 +1,10 @@
 <?php
 /*
-Plugin Name: ACF-Content Analysis for Yoast SEO
-Plugin URI: http://angrycreative.se
+Plugin Name: Yoast SEO Fix for ACF-Content Analysis
 Description: Ensure that Yoast SEO analysize all ACF content including Flexible Content and Repeaters.
 Version: 1.2.3
-Author: ViktorFroberg, marol87, pekz0r, angrycreative
-Author URI: http://angrycreative.se
+Author: GPL
+Author URI: http://wordpress.org
 License: GPL
 */
 
