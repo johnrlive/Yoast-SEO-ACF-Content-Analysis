@@ -1,6 +1,6 @@
-=== ACF-Content Analysis for Yoast SEO ===
+=== ACF-Content Fix for Yoast SEO ===
 Contributors: GPLv2
-Tags: Yoast SEO, Yoast, SEO, ACF, Advanced Custom Fields
+Tags: Advanced Custom Fields Fix
 Requires at least: 4.0
 Tested up to: 4.5
 Stable tag: 1.2.3
