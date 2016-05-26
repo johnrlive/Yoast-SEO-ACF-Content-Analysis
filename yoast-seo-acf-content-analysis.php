@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Yoast SEO Fix for ACF-Content Analysis
+Plugin Name: ACF-Content Analysis Fix For Yoast SEO
 Description: Ensure that Yoast SEO analysize all ACF content including Flexible Content and Repeaters.
 Version: 1.2.3
 Author: GPL
